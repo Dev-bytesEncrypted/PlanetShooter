@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Start_Screen_Piece.wav-1a7480b5f96b85e94f4a761c267620f6.sample"
+
+[deps]
+
+source_file="res://Music/Start_Screen_Piece.wav"
+dest_files=[ "res://.import/Start_Screen_Piece.wav-1a7480b5f96b85e94f4a761c267620f6.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0
